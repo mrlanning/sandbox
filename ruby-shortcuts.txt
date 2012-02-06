@@ -1,7 +1,0 @@
-RUBY HELP
-
-#*irb -I .
-#require 'filename'
-
-#class Something
-#class OtherThing < Something             (inherits the methods of Something + adds new methods)
